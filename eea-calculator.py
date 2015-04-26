@@ -81,12 +81,3 @@ k_label = Label(root,text="K").place(x = 250, y = 95, anchor=CENTER)
 
         
 root.mainloop()
-
-
-
-
-    
-
-
-
-
